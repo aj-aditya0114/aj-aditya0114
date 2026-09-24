@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aditya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Java+%7C+Spring+Boot+%7C+React;SQL+%7C+Python+%7C+C;Building+Scalable+and+Clean+Apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+&+AI+Engineer+💻;Java+%7C+Spring+Boot+%7C+React;SQL+%7C+Python+%7C+C;Building+Scalable+and+Clean+Apps+🚀" alt="Typing SVG" />
 </p>
 
 
